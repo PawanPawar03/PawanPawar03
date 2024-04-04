@@ -29,10 +29,15 @@
 </p>
 
 <!-- GitHub Stats -->
+### GitHub Stats:
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpawar03&show_icons=true&locale=en&layout=compact" alt="pawanpawar03" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpawar03&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpawar03&show_icons=true&locale=en" alt="pawanpawar03" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pawanpawar03&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpawar03&" alt="pawanpawar03" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpawar03&" alt="GitHub Streak" />
+</p>
