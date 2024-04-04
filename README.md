@@ -13,8 +13,8 @@
 <!-- Connect with me -->
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pawan-pawar-aaa19a244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawan-pawar-aaa19a244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/pawan_pawar_1?igsh=owwybnbkz3qxynzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pawan_pawar_1?igsh=owwybnbkz3qxynzu" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pawan-pawar-aaa19a244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/pawan_pawar_1?igsh=OWwybnBkZ3QxYnZu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <!-- Languages and Tools -->
