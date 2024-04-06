@@ -30,7 +30,7 @@
 </p>
 
 <!-- GitHub Stats -->
-### GitHub Stats:
+### GitHub Stats-:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpawar03&show_icons=true&locale=en&layout=compact" alt="Top Languages" /><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pawanpawar03&show_icons=true&locale=en" alt="GitHub Stats" /><br>
